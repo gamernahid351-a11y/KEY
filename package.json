@@ -1,0 +1,8 @@
+{
+  "name": "mehedi-key-api",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "firebase": "^12.0.0"
+  }
+}
